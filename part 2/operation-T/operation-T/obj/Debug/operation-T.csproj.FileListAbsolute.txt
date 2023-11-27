@@ -1,0 +1,7 @@
+C:\Users\rayar\source\repos\operation-T\operation-T\bin\Debug\operation-T.exe.config
+C:\Users\rayar\source\repos\operation-T\operation-T\bin\Debug\operation-T.exe
+C:\Users\rayar\source\repos\operation-T\operation-T\bin\Debug\operation-T.pdb
+C:\Users\rayar\source\repos\operation-T\operation-T\obj\Debug\operation-T.csproj.AssemblyReference.cache
+C:\Users\rayar\source\repos\operation-T\operation-T\obj\Debug\operation-T.csproj.CoreCompileInputs.cache
+C:\Users\rayar\source\repos\operation-T\operation-T\obj\Debug\operation-T.exe
+C:\Users\rayar\source\repos\operation-T\operation-T\obj\Debug\operation-T.pdb

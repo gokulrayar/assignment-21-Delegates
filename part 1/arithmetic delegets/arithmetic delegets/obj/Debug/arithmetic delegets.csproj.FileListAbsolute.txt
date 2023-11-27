@@ -1,0 +1,7 @@
+C:\Users\rayar\source\repos\arithmetic delegets\arithmetic delegets\bin\Debug\arithmetic delegets.exe.config
+C:\Users\rayar\source\repos\arithmetic delegets\arithmetic delegets\bin\Debug\arithmetic delegets.exe
+C:\Users\rayar\source\repos\arithmetic delegets\arithmetic delegets\bin\Debug\arithmetic delegets.pdb
+C:\Users\rayar\source\repos\arithmetic delegets\arithmetic delegets\obj\Debug\arithmetic delegets.csproj.AssemblyReference.cache
+C:\Users\rayar\source\repos\arithmetic delegets\arithmetic delegets\obj\Debug\arithmetic delegets.csproj.CoreCompileInputs.cache
+C:\Users\rayar\source\repos\arithmetic delegets\arithmetic delegets\obj\Debug\arithmetic delegets.exe
+C:\Users\rayar\source\repos\arithmetic delegets\arithmetic delegets\obj\Debug\arithmetic delegets.pdb
